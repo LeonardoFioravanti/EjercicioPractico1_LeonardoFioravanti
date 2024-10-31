@@ -1,0 +1,5 @@
+DAO\CategoriaDAO.class
+service\CategoriaService.class
+service\CategoriaServiceimpl\CategoriaServiceImpl.class
+farmacia\domain\Categoria.class
+controller\CategoriaController.class
